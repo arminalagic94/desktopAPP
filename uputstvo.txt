@@ -1,0 +1,15 @@
+Svi radni fajlovi u folderu www!
+U folderu DB APP se pokreæe fajl "dbAPP" - plava ikona!
+
+Username: user
+Password: user
+
+Nad unešenim klijentom se može vršiti slijedeæa obrada:
+
+- Ureðivanje podataka klijenta
+- Brisanje klijenta iz baze
+- Prihvatanje zahtjeva (verifikuj)
+- Odbijanje zahtjeva (odbij)
+
+Ako je korisnik verifikovan klikom na tick box dobija se rješenje napisano u wordu koje se sprema u folder "rješenja" jer je tamo fajl "style"
+u kojem se podešava izgled rješenja u wordu!
